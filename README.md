@@ -2,8 +2,8 @@
 
 I'm Hayley and I sometimes upload my stuff as open source :)
 
-- I want to investigate building some websites in different frameworks for partlyaweso.me
-- I want to play around with Bevy more often
+- I want to investigate building some websites in different frameworks for partlyaweso.me, dioxus looks most promising. I should upload my little test app of that.
+- I want to play around with Bevy more often! This doubly so.
 
 <!--
 **PartlyAwesome/PartlyAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
